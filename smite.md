@@ -14,7 +14,7 @@
 
 ### Joust
 
-#### Warrior
+#### Ares
 - Shoes of Focus
 - Sovereignty
 - Heartward Amulet
